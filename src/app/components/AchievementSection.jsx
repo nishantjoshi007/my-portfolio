@@ -9,17 +9,17 @@ import CountUp from 'react-countup';
 const achievementsList = [
   {
     metric: "Projects",
-    value: "100",
+    value: "5",
     postfix: "+",
   },
   {
     prefix: "~",
     metric: "Users",
-    value: "100000",
+    value: "1000",
   },
   {
     metric: "Awards",
-    value: "7",
+    value: "5",
   },
   {
     metric: "Years",
